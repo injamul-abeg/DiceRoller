@@ -1,2 +1,2 @@
 # Dice Roller
- Dice Toller App using Android and Kotlin
+ Dice Roller App using Android and Kotlin
